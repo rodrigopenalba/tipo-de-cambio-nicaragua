@@ -4,7 +4,7 @@ Plugin Name: Tipo de cambio Nicaragua
 Text Domain: tipo-de-cambio-nicaragua
 Domain Path: /languages
 Description: Tipo de cambio de dólar a córdoba nicaragüense. Información sobre el tipo de cambios de hoy, ayer, mañana y promedio del mes actual. 
-Version: 1.0
+Version: 1.1.0
 Author: Binary Lemon
 Author URI: https://www.binarylemon.net
 License: GPLv2 or later
